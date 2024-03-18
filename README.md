@@ -18,4 +18,7 @@ SimpleSearch is a Python-based PDF document search engine that allows users to s
 1. **Indexing Documents:** Use the `index_pdf()` method to index PDF documents.
 2. **Searching:** Use the `search()` method to search for keywords within the indexed documents.
 
-   
+## Acknowledgments  
+- PyPDF2: Library for parsing PDF files.
+- NLTK: Library for natural language processing.
+- Scikit-learn: For TF-IDF Vectorizer.
