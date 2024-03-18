@@ -8,7 +8,7 @@ SimpleSearch is a Python-based PDF document search engine that allows users to s
 - **Keyword Indexing:** Documents are indexed based on keywords, allowing for fast retrieval of relevant pages.
 - **TF-IDF Vectorization:** The search engine utilizes TF-IDF vectorization for efficient keyword matching and ranking.
 - **Stemming:** Keywords are stemmed to their root form for improved search accuracy.
-- 
+  
 ## How it Works
 1. **Indexing:** PDF documents are indexed based on keywords extracted from their text content.
 2. **Search:** Users input keywords to search for within the indexed documents.
